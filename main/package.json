@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Traveller-hongchen/Awakened-PoE-Trade-Simplified-Chinese.git"
+    "url": "https://github.com/Traveller-hongchen/APT_test.git"
   },
   "main": "dist/main.js",
   "dependencies": {
