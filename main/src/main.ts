@@ -24,6 +24,7 @@ app.enableSandbox()
 
 let tray: AppTray
 
+//test
 app.on('ready', async () => {
   tray = new AppTray(eventPipe)
   const logger = new Logger(eventPipe)
